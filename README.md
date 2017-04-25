@@ -1,4 +1,4 @@
-## Build a Portfoli
+## Build a Portfolio Website
 
 This is project 2 for the first unit in the Full Stack Web Developer nano degree from Udacity.  I tried to recreate a portfolio website mockup as close as possible to the original. 
 
