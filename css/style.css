@@ -1,0 +1,44 @@
+body {
+font-family: 'Lato', sans-serif;
+color: #7d97ad;
+}
+
+.ud-logo {
+    height: 145px;
+}
+
+.title {
+    font-size: 70px;
+    color: #2d3c49;
+}
+
+.sub-title{
+	font-size: 25px;
+	color: #2d3c49;
+}
+
+.line {
+    border-width: 5px;
+    border-color: #7d97ad;
+}
+
+.menu-title {
+	font-size: 50px;
+    color: #7d97ad;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.menu-text {
+	font-size: 40px;
+	color: #2d3c49;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.menu-link {
+	font-size: 15px;
+	color: #2d3c49 ;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
